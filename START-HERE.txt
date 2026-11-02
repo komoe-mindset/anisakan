@@ -1,0 +1,34 @@
+ANISAKAN OFFLINE WEBSITE
+
+ENGLISH
+1. Extract this entire ZIP to a folder on your laptop.
+2. Open index.html in Chrome, Edge, Firefox, or another modern browser.
+3. Use the small EN / Myanmar / Chinese selector at the top.
+4. The estate explorer, coffee process, orchard cards, trip planner, images,
+   fonts and project PDF all work locally. No installation or server is needed.
+5. Use "Present full screen" in the Project PDF section for customer meetings.
+6. Email enquiries can be drafted offline. Sending email requires an email app
+   and an internet connection. Prices and itineraries remain illustrative.
+Keep the files and assets folder together. Do not open the page inside the ZIP.
+
+မြန်မာ
+၁။ ZIP ဖိုင်တစ်ခုလုံးကို လက်ပ်တော့ရှိ ဖိုလ်ဒါတစ်ခုထဲသို့ ဖြည်ချပါ။
+၂။ index.html ကို Chrome၊ Edge၊ Firefox စသည့် ဘရောက်ဇာဖြင့် ဖွင့်ပါ။
+၃။ အပေါ်ဘက်ရှိ ဘာသာစကားခလုတ်ဖြင့် မြန်မာ၊ အင်္ဂလိပ်၊ တရုတ်ကို ရွေးပါ။
+၄။ ခြံဝင်းမြေပုံ၊ ကော်ဖီလုပ်ငန်းစဉ်၊ သီးနှံကတ်များ၊ ခရီးစဉ်တွက်ချက်မှု၊
+   ပုံများ၊ ဖောင့်များနှင့် စီမံကိန်း PDF တို့ကို အင်တာနက်မရှိဘဲ အသုံးပြုနိုင်သည်။
+၅။ ဖောက်သည်အား ပြသရာတွင် Project PDF အပိုင်းမှ မျက်နှာပြင်အပြည့်ခလုတ်ကို နှိပ်ပါ။
+၆။ အီးမေးလ်စာကြမ်းကို အော့ဖ်လိုင်းပြင်ဆင်နိုင်သော်လည်း ပေးပို့ရန် အင်တာနက်လိုသည်။
+   ဈေးနှုန်းနှင့် ခရီးစဉ်တို့သည် နမူနာသာ ဖြစ်သည်။
+ဖိုင်များနှင့် assets ဖိုလ်ဒါကို အတူထားပါ။ ZIP အတွင်းမှ တိုက်ရိုက်မဖွင့်ပါနှင့်။
+
+中文
+1. 将整个 ZIP 解压到笔记本电脑的文件夹中。
+2. 使用 Chrome、Edge、Firefox 等现代浏览器打开 index.html。
+3. 使用顶部的小型语言切换器选择英语、缅甸语或中文。
+4. 庄园探索、咖啡流程、作物卡片、行程规划、图片、字体和项目 PDF
+   均可离线使用，无需安装程序或运行服务器。
+5. 客户演示时，可在项目 PDF 区域点击“全屏展示”。
+6. 离线时可以准备邮件草稿，发送邮件需要邮件应用和网络连接。
+   价格与行程均为示例。
+请保持所有文件与 assets 文件夹放在一起，不要直接在 ZIP 内打开网页。
